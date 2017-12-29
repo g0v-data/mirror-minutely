@@ -6,10 +6,10 @@
       "value" : "0.058"
    },
    {
-      "localtime" : "2017-12-30T02:05:00+08",
+      "localtime" : "2017-12-30T02:20:00+08",
       "station" : "石門",
       "station_en" : "SHIHMAN",
-      "value" : "0.053"
+      "value" : "0.055"
    },
    {
       "localtime" : "2017-12-30T02:20:00+08",
@@ -30,10 +30,10 @@
       "value" : "0.047"
    },
    {
-      "localtime" : "2017-12-30T02:05:00+08",
+      "localtime" : "2017-12-30T02:20:00+08",
       "station" : "金山",
       "station_en" : "CHINSHAN",
-      "value" : "0.050"
+      "value" : "0.052"
    },
    {
       "localtime" : "2017-12-30T02:20:00+08",
@@ -60,10 +60,10 @@
       "value" : "0.052"
    },
    {
-      "localtime" : "2017-12-30T02:05:00+08",
+      "localtime" : "2017-12-30T02:20:00+08",
       "station" : "萬里",
       "station_en" : "WANLI",
-      "value" : "0.075"
+      "value" : "0.077"
    },
    {
       "localtime" : "2017-12-30T02:20:00+08",
@@ -186,25 +186,25 @@
       "value" : "0.063"
    },
    {
-      "localtime" : "2017-12-30T02:05:00+08",
+      "localtime" : "2017-12-30T02:20:00+08",
       "station" : "新竹",
       "station_en" : "HSINCHU",
-      "value" : "0.041"
+      "value" : "0.042"
    },
    {
-      "localtime" : "2017-12-30T02:05:00+08",
+      "localtime" : "2017-12-30T02:20:00+08",
       "station" : "花蓮",
       "station_en" : "HUALINE",
-      "value" : "0.037"
+      "value" : "0.038"
    },
    {
-      "localtime" : "2017-12-30T02:05:00+08",
+      "localtime" : "2017-12-30T02:20:00+08",
       "station" : "澎湖",
       "station_en" : "PENGHU",
       "value" : "0.031"
    },
    {
-      "localtime" : "2017-12-30T02:05:00+08",
+      "localtime" : "2017-12-30T02:20:00+08",
       "station" : "馬祖",
       "station_en" : "MATZU",
       "value" : "0.042"
