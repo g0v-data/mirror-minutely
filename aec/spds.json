@@ -1,6 +1,6 @@
 [
    {
-      "localtime" : "2018-12-02T16:03:58+08",
+      "localtime" : "2018-12-02T16:04:59+08",
       "machine" : "核一廠一號機",
       "power" : 0,
       "ratio" : 0,
@@ -8,7 +8,7 @@
       "status_text" : "機組大修"
    },
    {
-      "localtime" : "2018-12-02T16:03:58+08",
+      "localtime" : "2018-12-02T16:04:59+08",
       "machine" : "核一廠二號機",
       "power" : 0,
       "ratio" : 0,
@@ -16,7 +16,7 @@
       "status_text" : "機組大修"
    },
    {
-      "localtime" : "2018-12-02T16:03:58+08",
+      "localtime" : "2018-12-02T16:04:59+08",
       "machine" : "核二廠一號機",
       "power" : 0,
       "ratio" : 0,
@@ -24,25 +24,25 @@
       "status_text" : "機組大修"
    },
    {
-      "localtime" : "2018-12-02T16:03:58+08",
+      "localtime" : "2018-12-02T16:04:59+08",
       "machine" : "核二廠二號機",
-      "power" : 1014,
+      "power" : 1016,
       "ratio" : 100,
       "status" : 0,
       "status_text" : "發電運轉"
    },
    {
-      "localtime" : "2018-12-02T16:03:58+08",
+      "localtime" : "2018-12-02T16:04:59+08",
       "machine" : "核三廠一號機",
-      "power" : 977,
+      "power" : 979,
       "ratio" : 100,
       "status" : 0,
       "status_text" : "發電運轉"
    },
    {
-      "localtime" : "2018-12-02T16:03:58+08",
+      "localtime" : "2018-12-02T16:04:59+08",
       "machine" : "核三廠二號機",
-      "power" : 899,
+      "power" : 900,
       "ratio" : 92,
       "status" : 0,
       "status_text" : "發電運轉"
