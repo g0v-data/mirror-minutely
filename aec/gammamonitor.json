@@ -36,10 +36,10 @@
       "value" : "0.049"
    },
    {
-      "localtime" : "2018-12-10T15:15:00+08",
+      "localtime" : "2018-12-10T15:20:00+08",
       "station" : "三芝",
       "station_en" : "SHANGI",
-      "value" : "0.052"
+      "value" : "0.051"
    },
    {
       "localtime" : "2018-12-10T15:20:00+08",
@@ -90,7 +90,7 @@
       "value" : "0.074"
    },
    {
-      "localtime" : "2018-12-10T15:15:00+08",
+      "localtime" : "2018-12-10T15:20:00+08",
       "station" : "台北",
       "station_en" : "TAIPEI",
       "value" : "0.058"
@@ -114,10 +114,10 @@
       "value" : "0.062"
    },
    {
-      "localtime" : "2018-12-10T15:15:00+08",
+      "localtime" : "2018-12-10T15:20:00+08",
       "station" : "台東",
       "station_en" : "TAITUNG",
-      "value" : "0.049"
+      "value" : "0.048"
    },
    {
       "localtime" : "2018-12-10T15:20:00+08",
@@ -252,7 +252,7 @@
       "value" : "0.051"
    },
    {
-      "localtime" : "2018-12-10T15:15:00+08",
+      "localtime" : "2018-12-10T15:20:00+08",
       "station" : "基隆",
       "station_en" : "KEELUNG",
       "value" : "0.059"
@@ -276,10 +276,10 @@
       "value" : "0.050"
    },
    {
-      "localtime" : "2018-12-10T15:15:00+08",
+      "localtime" : "2018-12-10T15:20:00+08",
       "station" : "南投",
       "station_en" : "NANTOU",
-      "value" : "0.058"
+      "value" : "0.057"
    },
    {
       "localtime" : "2018-12-10T15:20:00+08",
@@ -294,7 +294,7 @@
       "value" : "0.058"
    },
    {
-      "localtime" : "2018-12-10T15:15:00+08",
+      "localtime" : "2018-12-10T15:20:00+08",
       "station" : "嘉義",
       "station_en" : "CHIAYI",
       "value" : "0.044"
