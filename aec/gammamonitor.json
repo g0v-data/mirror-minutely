@@ -72,7 +72,7 @@
       "value" : "0.050"
    },
    {
-      "localtime" : "2019-02-13T11:05:00+08",
+      "localtime" : "2019-02-13T11:10:00+08",
       "station" : "大鵬",
       "station_en" : "TAPERNG",
       "value" : "0.050"
@@ -84,7 +84,7 @@
       "value" : "0.036"
    },
    {
-      "localtime" : "2019-02-13T11:05:00+08",
+      "localtime" : "2019-02-13T11:10:00+08",
       "station" : "大坪",
       "station_en" : "TAPING",
       "value" : "0.060"
@@ -144,10 +144,10 @@
       "value" : "0.052"
    },
    {
-      "localtime" : "2019-02-13T11:05:00+08",
+      "localtime" : "2019-02-13T11:10:00+08",
       "station" : "大光",
       "station_en" : "TAKUANG",
-      "value" : "0.059"
+      "value" : "0.058"
    },
    {
       "localtime" : "2019-02-13T11:05:00+08",
@@ -210,7 +210,7 @@
       "value" : "0.057"
    },
    {
-      "localtime" : "2019-02-13T11:05:00+08",
+      "localtime" : "2019-02-13T11:10:00+08",
       "station" : "三港",
       "station_en" : "SANGANG",
       "value" : "0.039"
