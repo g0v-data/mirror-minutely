@@ -1,12 +1,12 @@
 [
    {
-      "localtime" : "2019-03-19T14:50:00+08",
+      "localtime" : "2019-03-19T15:00:00+08",
       "station" : "榮湖淨水廠",
       "station_en" : "RONGHU",
-      "value" : "0.031"
+      "value" : "0.030"
    },
    {
-      "localtime" : "2019-03-19T14:55:00+08",
+      "localtime" : "2019-03-19T15:00:00+08",
       "station" : "磺潭",
       "station_en" : "HWANGTAN",
       "value" : "0.049"
