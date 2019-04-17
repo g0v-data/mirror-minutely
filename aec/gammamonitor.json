@@ -42,10 +42,10 @@
       "value" : "0.052"
    },
    {
-      "localtime" : "2019-04-17T14:05:00+08",
+      "localtime" : "2019-04-17T14:10:00+08",
       "station" : "三芝",
       "station_en" : "SHANGI",
-      "value" : "0.049"
+      "value" : "0.047"
    },
    {
       "localtime" : "2019-04-17T14:10:00+08",
@@ -96,10 +96,10 @@
       "value" : "0.071"
    },
    {
-      "localtime" : "2019-04-17T14:05:00+08",
+      "localtime" : "2019-04-17T14:10:00+08",
       "station" : "台北",
       "station_en" : "TAIPEI",
-      "value" : "0.059"
+      "value" : "0.060"
    },
    {
       "localtime" : "2019-04-17T14:10:00+08",
@@ -114,13 +114,13 @@
       "value" : "0.052"
    },
    {
-      "localtime" : "2019-04-17T14:00:00+08",
+      "localtime" : "2019-04-17T14:10:00+08",
       "station" : "台中",
       "station_en" : "TAICHUNG",
-      "value" : "0.061"
+      "value" : "0.062"
    },
    {
-      "localtime" : "2019-04-17T14:05:00+08",
+      "localtime" : "2019-04-17T14:10:00+08",
       "station" : "台東",
       "station_en" : "TAITUNG",
       "value" : "0.050"
@@ -150,7 +150,7 @@
       "value" : "0.058"
    },
    {
-      "localtime" : "2019-04-17T14:05:00+08",
+      "localtime" : "2019-04-17T14:10:00+08",
       "station" : "墾丁",
       "station_en" : "KENTING",
       "value" : "0.040"
@@ -258,7 +258,7 @@
       "value" : "0.050"
    },
    {
-      "localtime" : "2019-04-17T14:05:00+08",
+      "localtime" : "2019-04-17T14:10:00+08",
       "station" : "基隆",
       "station_en" : "KEELUNG",
       "value" : "0.056"
@@ -282,10 +282,10 @@
       "value" : "0.048"
    },
    {
-      "localtime" : "2019-04-17T14:05:00+08",
+      "localtime" : "2019-04-17T14:10:00+08",
       "station" : "南投",
       "station_en" : "NANTOU",
-      "value" : "0.057"
+      "value" : "0.054"
    },
    {
       "localtime" : "2019-04-17T14:10:00+08",
@@ -300,7 +300,7 @@
       "value" : "0.060"
    },
    {
-      "localtime" : "2019-04-17T14:05:00+08",
+      "localtime" : "2019-04-17T14:10:00+08",
       "station" : "嘉義",
       "station_en" : "CHIAYI",
       "value" : "0.046"
