@@ -1,6 +1,6 @@
 [
    {
-      "localtime" : "2019-04-19T21:40:50+08",
+      "localtime" : "2019-04-19T21:41:46+08",
       "machine" : "核一廠一號機",
       "power" : 0,
       "ratio" : 0,
@@ -8,7 +8,7 @@
       "status_text" : "機組停機"
    },
    {
-      "localtime" : "2019-04-19T21:40:50+08",
+      "localtime" : "2019-04-19T21:41:46+08",
       "machine" : "核一廠二號機",
       "power" : 0,
       "ratio" : 0,
@@ -16,15 +16,15 @@
       "status_text" : "機組大修"
    },
    {
-      "localtime" : "2019-04-19T21:40:50+08",
+      "localtime" : "2019-04-19T21:41:46+08",
       "machine" : "核二廠一號機",
-      "power" : 1022,
+      "power" : 1021,
       "ratio" : 100,
       "status" : 0,
       "status_text" : "發電運轉"
    },
    {
-      "localtime" : "2019-04-19T21:40:50+08",
+      "localtime" : "2019-04-19T21:41:46+08",
       "machine" : "核二廠二號機",
       "power" : 0,
       "ratio" : 0,
@@ -32,7 +32,7 @@
       "status_text" : "機組大修"
    },
    {
-      "localtime" : "2019-04-19T21:40:50+08",
+      "localtime" : "2019-04-19T21:41:46+08",
       "machine" : "核三廠一號機",
       "power" : 975,
       "ratio" : 100,
@@ -40,7 +40,7 @@
       "status_text" : "發電運轉"
    },
    {
-      "localtime" : "2019-04-19T21:40:50+08",
+      "localtime" : "2019-04-19T21:41:46+08",
       "machine" : "核三廠二號機",
       "power" : 978,
       "ratio" : 100,
