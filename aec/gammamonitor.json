@@ -42,10 +42,10 @@
       "value" : "0.052"
    },
    {
-      "localtime" : "2019-04-19T08:00:00+08",
+      "localtime" : "2019-04-19T08:05:00+08",
       "station" : "三芝",
       "station_en" : "SHANGI",
-      "value" : "0.047"
+      "value" : "0.048"
    },
    {
       "localtime" : "2019-04-19T08:05:00+08",
@@ -72,10 +72,10 @@
       "value" : "0.052"
    },
    {
-      "localtime" : "2019-04-19T08:00:00+08",
+      "localtime" : "2019-04-19T08:05:00+08",
       "station" : "大鵬",
       "station_en" : "TAPERNG",
-      "value" : "0.047"
+      "value" : "0.050"
    },
    {
       "localtime" : "2019-04-19T08:05:00+08",
@@ -84,7 +84,7 @@
       "value" : "0.037"
    },
    {
-      "localtime" : "2019-04-19T08:00:00+08",
+      "localtime" : "2019-04-19T08:05:00+08",
       "station" : "大坪",
       "station_en" : "TAPING",
       "value" : "0.057"
@@ -96,16 +96,16 @@
       "value" : "0.073"
    },
    {
-      "localtime" : "2019-04-19T08:00:00+08",
+      "localtime" : "2019-04-19T08:05:00+08",
       "station" : "台北",
       "station_en" : "TAIPEI",
       "value" : "0.059"
    },
    {
-      "localtime" : "2019-04-19T07:55:00+08",
+      "localtime" : "2019-04-19T08:05:00+08",
       "station" : "宜蘭",
       "station_en" : "ILAN",
-      "value" : "0.056"
+      "value" : "0.058"
    },
    {
       "localtime" : "2019-04-19T08:05:00+08",
@@ -114,16 +114,16 @@
       "value" : "0.052"
    },
    {
-      "localtime" : "2019-04-19T08:00:00+08",
+      "localtime" : "2019-04-19T08:05:00+08",
       "station" : "台中",
       "station_en" : "TAICHUNG",
-      "value" : "0.063"
+      "value" : "0.065"
    },
    {
-      "localtime" : "2019-04-19T08:00:00+08",
+      "localtime" : "2019-04-19T08:05:00+08",
       "station" : "台東",
       "station_en" : "TAITUNG",
-      "value" : "0.055"
+      "value" : "0.053"
    },
    {
       "localtime" : "2019-04-19T08:05:00+08",
@@ -144,13 +144,13 @@
       "value" : "0.053"
    },
    {
-      "localtime" : "2019-04-19T08:00:00+08",
+      "localtime" : "2019-04-19T08:05:00+08",
       "station" : "大光",
       "station_en" : "TAKUANG",
-      "value" : "0.057"
+      "value" : "0.055"
    },
    {
-      "localtime" : "2019-04-19T08:00:00+08",
+      "localtime" : "2019-04-19T08:05:00+08",
       "station" : "墾丁",
       "station_en" : "KENTING",
       "value" : "0.038"
@@ -210,10 +210,10 @@
       "value" : "0.059"
    },
    {
-      "localtime" : "2019-04-19T08:00:00+08",
+      "localtime" : "2019-04-19T08:05:00+08",
       "station" : "三港",
       "station_en" : "SANGANG",
-      "value" : "0.041"
+      "value" : "0.042"
    },
    {
       "localtime" : "2019-04-19T08:05:00+08",
@@ -252,13 +252,13 @@
       "value" : "0.064"
    },
    {
-      "localtime" : "2019-04-19T08:00:00+08",
+      "localtime" : "2019-04-19T08:05:00+08",
       "station" : "屏東市",
       "station_en" : "PINGTONG",
-      "value" : "0.059"
+      "value" : "0.060"
    },
    {
-      "localtime" : "2019-04-19T08:00:00+08",
+      "localtime" : "2019-04-19T08:05:00+08",
       "station" : "基隆",
       "station_en" : "KEELUNG",
       "value" : "0.057"
@@ -282,16 +282,16 @@
       "value" : "0.054"
    },
    {
-      "localtime" : "2019-04-19T08:00:00+08",
+      "localtime" : "2019-04-19T08:05:00+08",
       "station" : "南投",
       "station_en" : "NANTOU",
-      "value" : "0.065"
+      "value" : "0.066"
    },
    {
-      "localtime" : "2019-04-19T08:00:00+08",
+      "localtime" : "2019-04-19T08:05:00+08",
       "station" : "彰化",
       "station_en" : "CHANGHUA",
-      "value" : "0.070"
+      "value" : "0.068"
    },
    {
       "localtime" : "2019-04-19T08:05:00+08",
@@ -300,7 +300,7 @@
       "value" : "0.061"
    },
    {
-      "localtime" : "2019-04-19T08:00:00+08",
+      "localtime" : "2019-04-19T08:05:00+08",
       "station" : "嘉義",
       "station_en" : "CHIAYI",
       "value" : "0.044"
