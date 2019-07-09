@@ -30,7 +30,7 @@
       "value" : "0.052"
    },
    {
-      "localtime" : "2019-07-09T10:20:00+08",
+      "localtime" : "2019-07-09T10:25:00+08",
       "station" : "三芝",
       "station_en" : "SHANGI",
       "value" : "0.048"
@@ -174,7 +174,7 @@
       "value" : "0.063"
    },
    {
-      "localtime" : "2019-07-09T10:20:00+08",
+      "localtime" : "2019-07-09T10:25:00+08",
       "station" : "榮湖淨水廠",
       "station_en" : "RONGHU",
       "value" : "0.033"
@@ -276,10 +276,10 @@
       "value" : "0.051"
    },
    {
-      "localtime" : "2019-07-09T10:20:00+08",
+      "localtime" : "2019-07-09T10:25:00+08",
       "station" : "南投",
       "station_en" : "NANTOU",
-      "value" : "0.053"
+      "value" : "0.055"
    },
    {
       "localtime" : "2019-07-09T10:25:00+08",
@@ -294,7 +294,7 @@
       "value" : "0.057"
    },
    {
-      "localtime" : "2019-07-09T10:20:00+08",
+      "localtime" : "2019-07-09T10:25:00+08",
       "station" : "嘉義",
       "station_en" : "CHIAYI",
       "value" : "0.042"
