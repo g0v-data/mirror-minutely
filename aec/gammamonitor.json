@@ -30,7 +30,7 @@
       "value" : "0.059"
    },
    {
-      "localtime" : "2019-07-10T12:40:00+08",
+      "localtime" : "2019-07-10T12:45:00+08",
       "station" : "三芝",
       "station_en" : "SHANGI",
       "value" : "0.051"
@@ -84,7 +84,7 @@
       "value" : "0.072"
    },
    {
-      "localtime" : "2019-07-10T12:40:00+08",
+      "localtime" : "2019-07-10T12:45:00+08",
       "station" : "台北",
       "station_en" : "TAIPEI",
       "value" : "0.060"
@@ -108,7 +108,7 @@
       "value" : "0.062"
    },
    {
-      "localtime" : "2019-07-10T12:40:00+08",
+      "localtime" : "2019-07-10T12:45:00+08",
       "station" : "台東",
       "station_en" : "TAITUNG",
       "value" : "0.047"
@@ -276,10 +276,10 @@
       "value" : "0.060"
    },
    {
-      "localtime" : "2019-07-10T12:40:00+08",
+      "localtime" : "2019-07-10T12:45:00+08",
       "station" : "南投",
       "station_en" : "NANTOU",
-      "value" : "0.053"
+      "value" : "0.051"
    },
    {
       "localtime" : "2019-07-10T12:45:00+08",
@@ -294,10 +294,10 @@
       "value" : "0.060"
    },
    {
-      "localtime" : "2019-07-10T12:40:00+08",
+      "localtime" : "2019-07-10T12:45:00+08",
       "station" : "嘉義",
       "station_en" : "CHIAYI",
-      "value" : "0.040"
+      "value" : "0.041"
    },
    {
       "localtime" : "2019-07-10T12:45:00+08",
