@@ -229,6 +229,12 @@
    },
    {
       "localtime" : "2019-07-11T07:50:00+08",
+      "station" : "東引",
+      "station_en" : "DONGYIN",
+      "value" : "0.038"
+   },
+   {
+      "localtime" : "2019-07-11T07:50:00+08",
       "station" : "馬祖",
       "station_en" : "MATZU",
       "value" : "0.055"
