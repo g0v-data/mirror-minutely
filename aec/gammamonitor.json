@@ -174,7 +174,7 @@
       "value" : "0.068"
    },
    {
-      "localtime" : "2019-08-20T09:40:00+08",
+      "localtime" : "2019-08-20T09:45:00+08",
       "station" : "榮湖淨水廠",
       "station_en" : "RONGHU",
       "value" : "0.030"
@@ -228,10 +228,10 @@
       "value" : "0.031"
    },
    {
-      "localtime" : "2019-08-20T09:40:00+08",
+      "localtime" : "2019-08-20T09:45:00+08",
       "station" : "東引",
       "station_en" : "DONGYIN",
-      "value" : "0.036"
+      "value" : "0.035"
    },
    {
       "localtime" : "2019-08-20T09:45:00+08",
@@ -258,7 +258,7 @@
       "value" : "0.048"
    },
    {
-      "localtime" : "2019-08-20T09:40:00+08",
+      "localtime" : "2019-08-20T09:45:00+08",
       "station" : "小琉球",
       "station_en" : "LIUQIU",
       "value" : "0.055"
@@ -306,7 +306,7 @@
       "value" : "0.058"
    },
    {
-      "localtime" : "2019-08-20T09:40:00+08",
+      "localtime" : "2019-08-20T09:45:00+08",
       "station" : "嘉義",
       "station_en" : "CHIAYI",
       "value" : "0.042"
