@@ -259,6 +259,12 @@
    },
    {
       "localtime" : "2019-08-20T08:10:00+08",
+      "station" : "小琉球",
+      "station_en" : "LIUQIU",
+      "value" : "0.054"
+   },
+   {
+      "localtime" : "2019-08-20T08:10:00+08",
       "station" : "基隆",
       "station_en" : "KEELUNG",
       "value" : "0.055"
